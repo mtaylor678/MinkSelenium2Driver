@@ -22,7 +22,7 @@
         "php":                       ">=7.2",
         "ext-json": "*",
         "behat/mink":                "^1.10",
-        "instaclick/php-webdriver":  "2.0.0-RC6"
+        "instaclick/php-webdriver":  "2.0.0-RC7"
     },
     "require-dev": {
         "mink/driver-testsuite": "dev-master",
